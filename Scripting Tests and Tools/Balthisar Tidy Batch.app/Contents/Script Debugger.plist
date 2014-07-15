@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>SD4Version</key>
-	<string>5.0.8</string>
+	<string>5.0.9</string>
 	<key>SDBreakOnExceptions</key>
 	<false/>
 	<key>SDBreakpointsEnabled</key>
@@ -80,12 +80,17 @@
 							<key>showScopeBar</key>
 							<true/>
 						</dict>
+						<key>fileSpecState</key>
+						<dict/>
 						<key>modes</key>
 						<array>
 							<string>mode.best</string>
 						</array>
 						<key>positions2</key>
-						<dict/>
+						<dict>
+							<key>positions</key>
+							<dict/>
+						</dict>
 						<key>prettyPrint</key>
 						<false/>
 						<key>textState</key>
@@ -98,7 +103,7 @@
 										<key>length</key>
 										<integer>0</integer>
 										<key>location</key>
-										<integer>71</integer>
+										<integer>59</integer>
 									</dict>
 								</array>
 								<key>LNSTextViewShowInvisibles</key>
@@ -136,28 +141,6 @@
 				</dict>
 				<key>eventLogHeight</key>
 				<real>174</real>
-				<key>eventLogViewState</key>
-				<dict>
-					<key>format</key>
-					<string>EventLogScopeBar_Source</string>
-					<key>resultState</key>
-					<dict>
-						<key>modes</key>
-						<array>
-							<string>mode.best</string>
-						</array>
-						<key>positions2</key>
-						<dict/>
-						<key>prettyPrint</key>
-						<false/>
-					</dict>
-					<key>resultViewerWidth</key>
-					<real>410</real>
-					<key>scopeVisible</key>
-					<true/>
-					<key>showResultViewer</key>
-					<false/>
-				</dict>
 				<key>inspectorsViewState</key>
 				<dict>
 					<key>applications</key>
@@ -175,9 +158,9 @@
 						<dict>
 							<key>3</key>
 							<array>
-								<integer>311</integer>
-								<integer>283</integer>
-								<integer>281</integer>
+								<integer>312</integer>
+								<integer>285</integer>
+								<integer>282</integer>
 							</array>
 						</dict>
 					</dict>
@@ -214,9 +197,9 @@
 						<dict>
 							<key>3</key>
 							<array>
-								<integer>298</integer>
-								<integer>309</integer>
-								<integer>247</integer>
+								<integer>299</integer>
+								<integer>311</integer>
+								<integer>248</integer>
 							</array>
 						</dict>
 					</dict>
@@ -238,7 +221,7 @@
 								<key>length</key>
 								<integer>0</integer>
 								<key>location</key>
-								<integer>310</integer>
+								<integer>1314</integer>
 							</dict>
 						</array>
 						<key>LNSTextViewShowInvisibles</key>
@@ -250,7 +233,7 @@
 						<key>LNSTextViewWrapLines</key>
 						<false/>
 						<key>LNSVisibleRect</key>
-						<string>{{0, 0}, {1525, 993}}</string>
+						<string>{{0, 235}, {1525, 993}}</string>
 						<key>ShowLineNumbers</key>
 						<false/>
 						<key>showCodeCoverage</key>
@@ -268,7 +251,7 @@
 					<key>tab.bps</key>
 					<real>433</real>
 					<key>tab.debug</key>
-					<real>433</real>
+					<real>439</real>
 					<key>tab.rsrcs</key>
 					<real>433</real>
 				</dict>
@@ -277,7 +260,7 @@
 				<key>windowControllerID</key>
 				<string>2D4C45F1-0D07-4A8D-BAAA-675FC72924A7-313-000004899CF52A0B</string>
 				<key>windowFrame</key>
-				<string>379 271 1993 1086 0 0 2560 1418 </string>
+				<string>15 315 1993 1086 0 0 2560 1418 </string>
 			</dict>
 		</dict>
 		<key>windowControllers</key>
@@ -292,7 +275,7 @@
 					<key>miniaturized</key>
 					<false/>
 					<key>windowFrame</key>
-					<string>379 271 1993 1086 0 0 2560 1418 </string>
+					<string>15 315 1993 1086 0 0 2560 1418 </string>
 				</dict>
 			</dict>
 		</array>
